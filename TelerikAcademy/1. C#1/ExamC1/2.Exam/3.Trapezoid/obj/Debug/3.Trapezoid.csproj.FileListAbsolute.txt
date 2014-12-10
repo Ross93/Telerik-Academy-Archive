@@ -1,0 +1,5 @@
+D:\Документи\Telerik\Projects\ExamC1\2.Exam\3.Trapezoid\bin\Debug\3.Trapezoid.exe.config
+D:\Документи\Telerik\Projects\ExamC1\2.Exam\3.Trapezoid\bin\Debug\3.Trapezoid.exe
+D:\Документи\Telerik\Projects\ExamC1\2.Exam\3.Trapezoid\bin\Debug\3.Trapezoid.pdb
+D:\Документи\Telerik\Projects\ExamC1\2.Exam\3.Trapezoid\obj\Debug\3.Trapezoid.exe
+D:\Документи\Telerik\Projects\ExamC1\2.Exam\3.Trapezoid\obj\Debug\3.Trapezoid.pdb

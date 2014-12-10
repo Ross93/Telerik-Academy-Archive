@@ -1,0 +1,5 @@
+D:\Документи\Telerik\Projects\ExamC1\2.Exam\4.BinaryDigitCount\bin\Debug\4.BinaryDigitCount.exe.config
+D:\Документи\Telerik\Projects\ExamC1\2.Exam\4.BinaryDigitCount\bin\Debug\4.BinaryDigitCount.exe
+D:\Документи\Telerik\Projects\ExamC1\2.Exam\4.BinaryDigitCount\bin\Debug\4.BinaryDigitCount.pdb
+D:\Документи\Telerik\Projects\ExamC1\2.Exam\4.BinaryDigitCount\obj\Debug\4.BinaryDigitCount.exe
+D:\Документи\Telerik\Projects\ExamC1\2.Exam\4.BinaryDigitCount\obj\Debug\4.BinaryDigitCount.pdb

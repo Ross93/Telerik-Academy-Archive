@@ -1,0 +1,5 @@
+D:\Документи\Telerik\Projects\ExamC1\3.Exam\3.FirTree\bin\Debug\3.FirTree.exe.config
+D:\Документи\Telerik\Projects\ExamC1\3.Exam\3.FirTree\bin\Debug\3.FirTree.exe
+D:\Документи\Telerik\Projects\ExamC1\3.Exam\3.FirTree\bin\Debug\3.FirTree.pdb
+D:\Документи\Telerik\Projects\ExamC1\3.Exam\3.FirTree\obj\Debug\3.FirTree.exe
+D:\Документи\Telerik\Projects\ExamC1\3.Exam\3.FirTree\obj\Debug\3.FirTree.pdb

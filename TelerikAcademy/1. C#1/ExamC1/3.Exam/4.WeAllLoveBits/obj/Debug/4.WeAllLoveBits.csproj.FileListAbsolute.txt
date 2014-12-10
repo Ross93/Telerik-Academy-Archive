@@ -1,0 +1,5 @@
+D:\Документи\Telerik\Projects\ExamC1\3.Exam\4.WeAllLoveBits\bin\Debug\4.WeAllLoveBits.exe.config
+D:\Документи\Telerik\Projects\ExamC1\3.Exam\4.WeAllLoveBits\bin\Debug\4.WeAllLoveBits.exe
+D:\Документи\Telerik\Projects\ExamC1\3.Exam\4.WeAllLoveBits\bin\Debug\4.WeAllLoveBits.pdb
+D:\Документи\Telerik\Projects\ExamC1\3.Exam\4.WeAllLoveBits\obj\Debug\4.WeAllLoveBits.exe
+D:\Документи\Telerik\Projects\ExamC1\3.Exam\4.WeAllLoveBits\obj\Debug\4.WeAllLoveBits.pdb

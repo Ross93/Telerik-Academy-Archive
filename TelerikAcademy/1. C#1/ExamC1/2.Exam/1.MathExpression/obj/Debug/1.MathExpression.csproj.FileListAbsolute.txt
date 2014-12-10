@@ -1,0 +1,5 @@
+D:\Документи\Telerik\Projects\ExamC1\2.Exam\1.MathExpression\bin\Debug\1.MathExpression.exe.config
+D:\Документи\Telerik\Projects\ExamC1\2.Exam\1.MathExpression\bin\Debug\1.MathExpression.exe
+D:\Документи\Telerik\Projects\ExamC1\2.Exam\1.MathExpression\bin\Debug\1.MathExpression.pdb
+D:\Документи\Telerik\Projects\ExamC1\2.Exam\1.MathExpression\obj\Debug\1.MathExpression.exe
+D:\Документи\Telerik\Projects\ExamC1\2.Exam\1.MathExpression\obj\Debug\1.MathExpression.pdb
